@@ -9,33 +9,33 @@ client = Client(account_sid, auth_token)
 # Array of class routines with their respective timings and students' phone numbers
 class_routine = [
     {"day": "Sunday", "classes": [
-        {"name": "Yoga", "time": ":10:00","teacher": "S.K.H", "students": ["+919382298424", "+918777685356"]},
+        {"name": "Yoga", "time": ":10:00","teacher": "S.K.H", "students": ["XXXXXXXXXX", "XXXXXXXXXX"]},
     ]},
     
     {"day": "Monday", "classes": [
-        {"name": "Database Management System", "time": "10:30","teacher": "S.S", "students": ["+919382298424", "+918777685356","+917908225650","+918391851186","+916294275658","+91 75848 26317","+91 79082 40579","+91 62961 24057","+91 98316 79648","+91 84363 03370","+91 93828 72368"]},
-        {"name": "Computer Network", "time": "13:50","teacher": "S.D", "students": ["+919382298424", "+918777685356","+917908225650","+918391851186","+916294275658","+91 75848 26317","+91 79082 40579","+91 62961 24057","+91 98316 79648","+91 84363 03370","+91 93828 72368"]},
-        {"name": "Java", "time": "14:50","teacher": "A.T", "students": ["+919382298424", "+918777685356","+917908225650","+918391851186","+916294275658","+91 75848 26317","+91 79082 40579","+91 62961 24057","+91 98316 79648","+91 84363 03370","+91 93828 72368"]},
+        {"name": "Database Management System", "time": "10:30","teacher": "S.S", "students": ["XXXXXXXXXX", "XXXXXXXXXX"]},
+        {"name": "Computer Network", "time": "13:50","teacher": "S.D", "students": ["XXXXXXXXXX", "XXXXXXXXXX"]},
+        {"name": "Java", "time": "14:50","teacher": "A.T", "students": ["XXXXXXXXXX", "XXXXXXXXXX"]},
     ]},
     {"day": "Tuesday", "classes": [
-        {"name": "Operating System", "time": "11:30","teacher": "P.G.R", "students": ["+919382298424", "+918777685356","+917908225650","+918391851186","+916294275658","+91 75848 26317","+91 79082 40579","+91 62961 24057","+91 98316 79648","+91 84363 03370","+91 93828 72368"]},
-        {"name": "Java", "time": "13:50","teacher": "A.T", "students": ["+919382298424", "+918777685356","+917908225650","+918391851186","+916294275658","+91 75848 26317","+91 79082 40579","+91 62961 24057","++91 98316 79648","+91 84363 03370","+91 93828 72368"]},
-        {"name": "Database Lab", "time": "14:50","teacher": "S.S", "students": ["+919382298424", "+918777685356","+917908225650","+918391851186","+916294275658","+91 75848 26317","+91 79082 40579","+91 62961 24057","+91 98316 79648","+91 84363 03370","+91 93828 72368"]},
+        {"name": "Operating System", "time": "11:30","teacher": "P.G.R", "students": ["XXXXXXXXXX", "XXXXXXXXXX"]},
+        {"name": "Java", "time": "13:50","teacher": "A.T", "students": ["XXXXXXXXXX", "XXXXXXXXXX"]},
+        {"name": "Database Lab", "time": "14:50","teacher": "S.S", "students": ["XXXXXXXXXX", "XXXXXXXXXX"]},
     ]},
     {"day": "Wednesday", "classes": [
-        {"name": "Java", "time": "11:30","teacher": "A.T", "students": ["+919382298424", "+918777685356","+917908225650","+918391851186","+916294275658","+91 75848 26317","+91 79082 40579","+91 62961 24057","+91 98316 79648","+91 84363 03370","+91 93828 72368"]},
-        {"name": "Operating System", "time": "13:50","teacher": "P.G.R", "students": ["+919382298424", "+918777685356","+917908225650","+918391851186","+916294275658","+91 75848 26317","+91 79082 40579","+91 62961 24057","+91 98316 79648","+91 84363 03370","+91 93828 72368"]},
-        {"name": "Computer Network Lab", "time": "14:50","teacher": "S.D", "students": ["+919382298424", "+918777685356","+917908225650","+918391851186","+916294275658","+91 75848 26317","+91 79082 40579","+91 62961 24057","+91 98316 79648","+91 84363 03370","+91 93828 72368"]},
+        {"name": "Java", "time": "11:30","teacher": "A.T", "students": ["XXXXXXXXXX", "XXXXXXXXXX"]},
+        {"name": "Operating System", "time": "13:50","teacher": "P.G.R", "students": ["XXXXXXXXXX", "XXXXXXXXXX"]},
+        {"name": "Computer Network Lab", "time": "14:50","teacher": "S.D", "students": ["XXXXXXXXXX", "XXXXXXXXXX"]},
     ]},
     {"day": "Thursday", "classes": [
-        {"name": "Computer Network", "time": "11:30","teacher": "S.D", "students": ["+919382298424", "+918777685356","+917908225650","+918391851186","+916294275658","+91 75848 26317","+91 79082 40579","+91 62961 24057","+91 98316 79648","+91 84363 03370","+91 93828 72368"]},
-        {"name": "Software Engineering", "time": "13:30","teacher": "S.S", "students": ["+919382298424", "+918777685356","+917908225650","+918391851186","+916294275658","+91 75848 26317","+91 79082 40579","+91 62961 24057","+91 98316 79648","+91 84363 03370","+91 93828 72368"]},
-        {"name": "Minor Project", "time": "14:50","teacher": "S.S", "students": ["+919382298424", "+918777685356","+917908225650","+918391851186","+916294275658","+91 75848 26317","+91 79082 40579","+91 62961 24057","+91 98316 79648","+91 84363 03370","+91 93828 72368"]},
+        {"name": "Computer Network", "time": "11:30","teacher": "S.D", "students": ["XXXXXXXXXX", "XXXXXXXXXX"]},
+        {"name": "Software Engineering", "time": "13:30","teacher": "S.S", "students": ["XXXXXXXXXX", "XXXXXXXXXX"]},
+        {"name": "Minor Project", "time": "14:50","teacher": "S.S", "students": ["XXXXXXXXXX", "XXXXXXXXXX"]},
     ]},
     {"day": "Friday", "classes": [
-        {"name": "Minor Project", "time": "10:30","teacher": "S.S", "students": ["+919382298424", "+918777685356","+917908225650","+918391851186","+916294275658","+91 75848 26317","+91 79082 40579","+91 62961 24057","+91 98316 79648","+91 84363 03370","+91 93828 72368"]},
-        {"name": "Software Engineering", "time": "12:30","teacher": "S.S", "students": ["+919382298424", "+918777685356","+917908225650","+918391851186","+916294275658","+91 75848 26317","+91 79082 40579","+91 62961 24057","+91 98316 79648","+91 84363 03370","+91 93828 72368"]},
-        {"name": "Operating System Lab", "time": "14:50","teacher": "P.G.R", "students": ["+919382298424", "+918777685356","+917908225650","+918391851186","+916294275658","+91 75848 26317","+91 79082 40579","+91 62961 24057","+91 98316 79648","+91 84363 03370","+91 93828 72368"]},
+        {"name": "Minor Project", "time": "10:30","teacher": "S.S", "students": ["XXXXXXXXXX", "XXXXXXXXXX"]},
+        {"name": "Software Engineering", "time": "12:30","teacher": "S.S", "students": ["XXXXXXXXXX", "XXXXXXXXXX"]},
+        {"name": "Operating System Lab", "time": "14:50","teacher": "P.G.R", "students": ["XXXXXXXXXX", "XXXXXXXXXX"]},
     ]}
     # Add more days and classes as needed
 ]
@@ -48,7 +48,7 @@ def send_reminder_to_all(class_name, class_time, teacher, students):
     for student in students:
         client.messages.create(
             to=student,
-            from_="+19497102252",
+            from_="YYYYYYYYYY",
             body=message
         )
     print(f"Reminder sent for {class_name} to all students")

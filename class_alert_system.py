@@ -2,8 +2,8 @@ from twilio.rest import Client
 import datetime
 
 # Your Twilio Account SID and Auth Token
-account_sid = 'AC693df6b69b4df12e77915baa1fc7f844'
-auth_token = '646d14be89f440a77bd2ccb3ec5b5567'
+account_sid = 'XXXXXX'
+auth_token = 'XXXXXX'
 client = Client(account_sid, auth_token)
 
 # Array of class routines with their respective timings and students' phone numbers

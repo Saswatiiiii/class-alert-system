@@ -110,3 +110,8 @@ To keep your **Twilio credentials safe**, consider using environment variables o
 - Add email notifications
 - Integrate real-time calendar syncing (Google Calendar, etc.)
 
+---
+
+## 📄 License
+
+This project is for **educational and learning purposes only**. No commercial use intended.
